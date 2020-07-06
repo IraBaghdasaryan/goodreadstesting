@@ -1,0 +1,7 @@
+{
+  "browser": "Chrome",
+  "implicit_wait": 10,
+  "baseURL:": "https://www.goodreads.com/"
+}
+
+

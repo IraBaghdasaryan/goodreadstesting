@@ -1,0 +1,56 @@
+1593630778103	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_v/bfnbwpr10pd22zfrkx8c08b80000gn/T/rust_mozprofilephJVRm"
+1593630784621	Marionette	INFO	Listening on port 52615
+1593630784650	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593630784778	Marionette	INFO	Stopped listening on port 52615
+1593630832662	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_v/bfnbwpr10pd22zfrkx8c08b80000gn/T/rust_mozprofile9eBzV0"
+1593630836081	Marionette	INFO	Listening on port 52709
+1593630836100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.gr-assets.com/assets/react_client_side/custom_react_ujs-b1220d5e0a4820e90b905c302fc5cb52.js, line 1: Error: Cannot find component: 'ReactComponents.EditorialBlogThumbnail'. Make sure your component is globally available to render.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593630844400	Marionette	INFO	Stopped listening on port 52709
+1593630871157	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_v/bfnbwpr10pd22zfrkx8c08b80000gn/T/rust_mozprofilevflONh"
+1593630874379	Marionette	INFO	Listening on port 52822
+1593630874404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.gr-assets.com/assets/react_client_side/custom_react_ujs-b1220d5e0a4820e90b905c302fc5cb52.js, line 1: Error: Cannot find component: 'ReactComponents.EditorialBlogThumbnail'. Make sure your component is globally available to render.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593630888509	Marionette	INFO	Stopped listening on port 52822
+JavaScript error: https://s.gr-assets.com/assets/react_client_side/external_dependencies-51654d5556.js, line 3750: NS_ERROR_NOT_INITIALIZED: 
+1593631259166	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_v/bfnbwpr10pd22zfrkx8c08b80000gn/T/rust_mozprofilez7TG4g"
+1593631263775	Marionette	INFO	Listening on port 52966
+1593631263821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.gr-assets.com/assets/react_client_side/custom_react_ujs-b1220d5e0a4820e90b905c302fc5cb52.js, line 1: Error: Cannot find component: 'ReactComponents.EditorialBlogThumbnail'. Make sure your component is globally available to render.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593631277608	Marionette	INFO	Stopped listening on port 52966
+JavaScript error: https://s.gr-assets.com/assets/react_client_side/external_dependencies-51654d5556.js, line 3750: NS_ERROR_NOT_INITIALIZED: 
+1593631496674	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_v/bfnbwpr10pd22zfrkx8c08b80000gn/T/rust_mozprofileyJIBcu"
+1593631500793	Marionette	INFO	Listening on port 53113
+1593631500829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593631500918	Marionette	INFO	Stopped listening on port 53113
+1593631770953	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_v/bfnbwpr10pd22zfrkx8c08b80000gn/T/rust_mozprofileVM8lgj"
+1593631774619	Marionette	INFO	Listening on port 53190
+1593631774692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.gr-assets.com/assets/react_client_side/custom_react_ujs-b1220d5e0a4820e90b905c302fc5cb52.js, line 1: Error: Cannot find component: 'ReactComponents.EditorialBlogThumbnail'. Make sure your component is globally available to render.
+1593631779852	Marionette	INFO	Stopped listening on port 53190
+1593631804275	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_v/bfnbwpr10pd22zfrkx8c08b80000gn/T/rust_mozprofileRzlGKb"
+1593631807341	Marionette	INFO	Listening on port 53296
+1593631807408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.gr-assets.com/assets/react_client_side/custom_react_ujs-b1220d5e0a4820e90b905c302fc5cb52.js, line 1: Error: Cannot find component: 'ReactComponents.EditorialBlogThumbnail'. Make sure your component is globally available to render.
+1593631811420	Marionette	INFO	Stopped listening on port 53296
+1593631920523	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_v/bfnbwpr10pd22zfrkx8c08b80000gn/T/rust_mozprofilesbaeqH"
+1593631925119	Marionette	INFO	Listening on port 53398
+1593631925202	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.gr-assets.com/assets/react_client_side/custom_react_ujs-b1220d5e0a4820e90b905c302fc5cb52.js, line 1: Error: Cannot find component: 'ReactComponents.EditorialBlogThumbnail'. Make sure your component is globally available to render.
+1593631929590	Marionette	INFO	Stopped listening on port 53398
+1593631963290	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_v/bfnbwpr10pd22zfrkx8c08b80000gn/T/rust_mozprofilewumkTQ"
+1593631966632	Marionette	INFO	Listening on port 53512
+1593631966727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.gr-assets.com/assets/react_client_side/custom_react_ujs-b1220d5e0a4820e90b905c302fc5cb52.js, line 1: Error: Cannot find component: 'ReactComponents.EditorialBlogThumbnail'. Make sure your component is globally available to render.
+1593631970768	Marionette	INFO	Stopped listening on port 53512
+1593632042661	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_v/bfnbwpr10pd22zfrkx8c08b80000gn/T/rust_mozprofile76uOc4"
+1593632045990	Marionette	INFO	Listening on port 53610
+1593632046114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.gr-assets.com/assets/react_client_side/custom_react_ujs-b1220d5e0a4820e90b905c302fc5cb52.js, line 1: Error: Cannot find component: 'ReactComponents.EditorialBlogThumbnail'. Make sure your component is globally available to render.
+1593632050276	Marionette	INFO	Stopped listening on port 53610
